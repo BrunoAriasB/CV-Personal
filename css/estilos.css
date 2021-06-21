@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap')
+h1, h2{font-family:'Montserrat', sans-serif; font-weight: bold}
+h1{font-size: 35px; color: black;}
+.imagen{height: 250px; display: block;margin-left: auto;margin-right: auto;}
+.h1inicio{font-size: 35px; color: #005677; text-align: center;} 
+h2{font-size: 20px;background-color: #C4C4C4; color:#005677;}
+.fondo-sobremi-header{background-color: wheat; background-image: url(../img/img-sobremi.jpg); height: 600px; ; background-repeat: no-repeat; background-size:cover; background-position: center; background-attachment: fixed;}
+.Negritas-dp{font-weight: 700; line-height: 16px}
+.Negritas-p{font-weight: 700; line-height: 16px}
+body{font-family: 'Open Sans', sans-serif ; font-weight: normal; font-size: 15px; font-weight: 400;}
+section p{font-family: 'Montserrat', sans-serif;font-size: 15px; font-style: normal; }
+section nav{font-family: 'Montserrat', sans-serif; font-style: normal; font-size: 20px; color:black;}
+.footer-batman{background-color: #005677;}
+.span-footer{color:#ffffff; font-family:'Montserrat', sans-serif; font-size: 20px;font-weight: 700; text-align:center;}
+section a{font-family: 'Montserrat', sans-serif; font-style: normal; font-size: 20px; color: black;}
+footer{text-align: center}
+footer a{color: white;}     
